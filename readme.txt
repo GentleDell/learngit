@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git remote repertory added.
 Create a new branch.
+Create a branch named feature1.
