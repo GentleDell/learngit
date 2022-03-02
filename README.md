@@ -18,3 +18,5 @@ Branch management.
 | SurpriseLib | To generate different models for blending, [surpriseLib](http://surpriselib.com/) is used. This file contains the functions we use and the output data are properly orgnized.|
 |recommendation_system| A simple Top-N (default 5) movies recommendation system|
 | Helpers     | This is the same Helper of exercise 10. |
+
+Mar.02, 2022: try to update the merge messages
