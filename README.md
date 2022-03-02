@@ -20,3 +20,5 @@ Branch management.
 | Helpers     | This is the same Helper of exercise 10. |
 
 Mar.02, 2022: try to update the merge messages
+
+- understand how to correctly and safely update the merge message.
